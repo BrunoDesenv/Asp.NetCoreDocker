@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  webapplication:
+    build:
+      context: C:\Users\bruno.santos.eit\Desktop\Projeto\ExampleDocker\WebApplication
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: webapplication
+    ports:
+    - 80/tcp
+version: '3.0'

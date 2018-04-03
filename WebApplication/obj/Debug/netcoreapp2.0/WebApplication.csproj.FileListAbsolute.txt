@@ -1,0 +1,11 @@
+C:\Users\bruno.santos.eit\Desktop\Projeto\ExampleDocker\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.deps.json
+C:\Users\bruno.santos.eit\Desktop\Projeto\ExampleDocker\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.json
+C:\Users\bruno.santos.eit\Desktop\Projeto\ExampleDocker\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.dev.json
+C:\Users\bruno.santos.eit\Desktop\Projeto\ExampleDocker\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.dll
+C:\Users\bruno.santos.eit\Desktop\Projeto\ExampleDocker\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.pdb
+C:\Users\bruno.santos.eit\Desktop\Projeto\ExampleDocker\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csprojResolveAssemblyReference.cache
+C:\Users\bruno.santos.eit\Desktop\Projeto\ExampleDocker\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\bruno.santos.eit\Desktop\Projeto\ExampleDocker\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\bruno.santos.eit\Desktop\Projeto\ExampleDocker\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfo.cs
+C:\Users\bruno.santos.eit\Desktop\Projeto\ExampleDocker\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.dll
+C:\Users\bruno.santos.eit\Desktop\Projeto\ExampleDocker\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.pdb
